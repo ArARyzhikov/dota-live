@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ArARyzhikov/dota-live#readme",
   "dependencies": {
+    "expo": "^57.0.2",
     "express": "^5.2.1"
   }
 }
